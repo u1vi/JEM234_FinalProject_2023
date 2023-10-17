@@ -9,7 +9,11 @@ According to documentation (Linux terminal)
 ```bash
 $ git help gc
 git-gc - Cleanup unnecessary files and optimize the local repository 
+
+
+
 ``` 
+https://github.com/u1vi/JEM234_FinalProject_2023/assets/68427789/97ed9c9e-cb19-4670-abc4-875eea470208
 
 The "git gc" command is like a cleanup tool for your Git repository. It's called "garbage collection" because it helps Git tidy up and get rid of unnecessary stuff that piles up. This concept originally comes from how some computer programs manage memory. 
 
