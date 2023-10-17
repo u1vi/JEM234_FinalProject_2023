@@ -15,7 +15,7 @@ The "git gc" command is like a cleanup tool for your Git repository. It's called
 
 But what the garbage means
 
-<iframe width="560" height="315" src="https://https://youtu.be/6QXBxhAEyHI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/6QXBxhAEyHI" frameborder="0" allowfullscreen></iframe>
 
 
 In your Git repository, there are things we call "garbage." One type of this garbage is like forgotten, hidden treasures. These are the commits that become hidden when you do things like changing the history with "git reset" or "git rebase." Git doesn't throw them away to be safe and not lose important stuff. You can still see these hidden commits and use them if needed. 
