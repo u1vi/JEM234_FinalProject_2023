@@ -1,6 +1,6 @@
 # Git Garbage Collection (git gc)
 
-Git gc (garbage collection) is a crucial maintenance command for managing a Git repository. Garbage collection is essential to clean up unnecessary objects and optimize a Git repository's performance. In the context of Git, "garbage" refers to objects that are no longer reachable or needed.
+Git gc (garbage collection) is a crucial maintenance command for managing a Git repository. Garbage collection is essential to clean up unnecessary objects and optimize a Git repository's performance. In the context of Git, **garbage** refers to objects that are no longer reachable or needed.
 
 ## Purpose of Git gc
 
