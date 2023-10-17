@@ -64,6 +64,7 @@ According to **[atlassian](https://www.atlassian.com/git/tutorials/git-gc#:~:tex
 **git gc** is a parent command and **git prune** is a child. git gc will internally trigger git prune. git prune is used to remove Git objects that have been **deemed** inaccessible by the git gc configuration. Learn more about git prune.
 
 ### Analogy time
+![emperior](https://github.com/u1vi/JEM234_FinalProject_2023/assets/68427789/4beb3121-e9ae-48cf-979a-920bf2766139)
 
 
 **Git GC as the Emperor:** Think of git gc as the wise emperor of your Git repository. It oversees all matters, including the cleanliness and optimization of your kingdom (repository). Just like an emperor decides the fate of the prisoner, git gc decides the fate of your Git files.
