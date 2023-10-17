@@ -13,16 +13,13 @@ git-gc - Cleanup unnecessary files and optimize the local repository
 
 
 ``` 
-https://github.com/u1vi/JEM234_FinalProject_2023/assets/68427789/97ed9c9e-cb19-4670-abc4-875eea470208
+
 
 The "git gc" command is like a cleanup tool for your Git repository. It's called "garbage collection" because it helps Git tidy up and get rid of unnecessary stuff that piles up. This concept originally comes from how some computer programs manage memory. 
 
 But what the garbage means
 
-media/MegasXLR_searching_item.mp4
-
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
-
+https://github.com/u1vi/JEM234_FinalProject_2023/assets/68427789/97ed9c9e-cb19-4670-abc4-875eea470208
 
 In your Git repository, there are things we call "garbage." One type of this garbage is like forgotten, hidden treasures. These are the commits that become hidden when you do things like changing the history with "git reset" or "git rebase." Git doesn't throw them away to be safe and not lose important stuff. You can still see these hidden commits and use them if needed. 
 
